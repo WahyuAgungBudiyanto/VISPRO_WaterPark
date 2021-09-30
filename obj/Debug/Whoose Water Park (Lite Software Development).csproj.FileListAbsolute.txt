@@ -1,0 +1,17 @@
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\bin\Debug\Whoose Water Park (Lite Software Development).exe.config
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\bin\Debug\Whoose Water Park (Lite Software Development).exe
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\bin\Debug\Whoose Water Park (Lite Software Development).pdb
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose Water Park (Lite Software Development).csproj.AssemblyReference.cache
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose_Water_Park__Lite_Software_Development_.Properties.Resources.resources
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose Water Park (Lite Software Development).csproj.GenerateResource.cache
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose Water Park (Lite Software Development).csproj.CoreCompileInputs.cache
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose Water Park (Lite Software Development).exe
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose Water Park (Lite Software Development).pdb
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\bin\Debug\Guna.UI2.dll
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose_Water_Park__Lite_Software_Development_.AfterSplash1.resources
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose Water Park (Lite Software Development).csproj.CopyComplete
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose_Water_Park__Lite_Software_Development_.AfterSplash2.resources
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose_Water_Park__Lite_Software_Development_.LearnMore.resources
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose_Water_Park__Lite_Software_Development_.SP.resources
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose_Water_Park__Lite_Software_Development_.Dashboard.resources
+D:\KULIAH\Sem 5\Vispro\Whoose Water Park (Lite Software Development)\obj\Debug\Whoose_Water_Park__Lite_Software_Development_.Invoice.resources
